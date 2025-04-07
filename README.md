@@ -26,7 +26,7 @@
 
 ### 📫 **How to Reach Me**
 - <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-your-email%40example.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-- <a href="https://www.linkedin.com/in/edohan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Edohan-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://www.linkedin.com/in/jaekeunbaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jaekeunbaik-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 ### 🏆 **GitHub Stats**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edohan117&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekeunbaik&show_icons=true&theme=radical)
 
 ---
 
