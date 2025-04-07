@@ -64,7 +64,7 @@
 ---
 
 ### 📌 **Pinned Repos**
-[Click here to see more repositories](https://github.com/edohan117?tab=repositories)
+[Click here to see more repositories](https://github.com/jaekeunbaik?tab=repositories)
 
 ---
 
