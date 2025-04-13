@@ -63,6 +63,13 @@
 
 ---
 
+### 🌱 **GitHub 잔디 (Contribution Graph)**
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/jaekeunbaik)
+
+> 🔗 [https://ghchart.rshah.org/](https://ghchart.rshah.org/)에서 제공하는 GitHub 활동 그래프입니다.
+
+
 ### 📌 **Pinned Repos**
 [Click here to see more repositories](https://github.com/jaekeunbaik?tab=repositories)
 
