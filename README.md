@@ -25,8 +25,9 @@
 ---
 
 ### 📫 **How to Reach Me**
-- <a href="www.linkedin.com/in/jaekeun-baik-697734359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jaekeunbaik-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-
+<a href="https://www.linkedin.com/in/jaekeun-baik-697734359" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-jaekeun--baik--697734359-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
 ---
 
 ### 🛠️ **Skills**
