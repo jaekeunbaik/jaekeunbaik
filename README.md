@@ -27,7 +27,8 @@ ERP·HR 시스템 아키텍처 및 최적화
 EAI 통신 개선, 공공 시스템 개발 경험
 
 📫 Contact
-<a href="https://www.linkedin.com/in/jaekeun-baik-697734359" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-jaekeun--baik--697734359-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"> </a>
+jaekeunbaik@gmail.com
+
 🛠️ Skills
 <div> <img src="https://img.shields.io/badge/Java%20Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/JSP-3E5B99?style=flat&logo=Apache%20Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Tibero-00A9E0?style=flat&logo=Tibero&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"> </div>
 🌟 Fun Facts
